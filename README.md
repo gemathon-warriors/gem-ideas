@@ -22,3 +22,5 @@
     15. photo-manager (handle uploads and resizing of photos using rmagick & paperclip)
     16. asset-minifier (minify assets for Rails < 3)
     17. render-anywhere (Render templates outside of a controller or view)
+    18. Client Side Validation Gem (Rails 4)
+    19. Spindler/Spicon (Icon with Spin feature)

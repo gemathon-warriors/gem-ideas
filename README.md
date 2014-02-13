@@ -27,16 +27,22 @@
 
 
 ####Gems for Gemathon
+#####Easy
+1. timezone-offset (calculate offset between system timezone & a given timezone)
+2. Spindler/Spicon (Icon with Spin feature)
+
+ 
+##### Medium
 1. Rounder (timesheet gem)
-2. easeDB (multiple db connectivity with rails) 
-3. 
-3 Date operation gem, date-formatted (humanized date formats) 
-4. user authentication extension gem
-5. sqlite3-encrypt-fts (using a custom compiled SQLITE3 binary supporting encrypted db's, using a custom compiled SQLITE3 binary supporting full text search on tables)
-6. timezone-offset (calculate offset between system timezone & a given timezone)
-7. string-sanitizer (sanitize strings to remove foreign chars and replace it by English alphabets)
-8. ldap-groups (to handle groups on ldap servers)
-9. Spindler/Spicon (Icon with Spin feature)
+2. Date operation gem, date-formatted (humanized date formats)
+3. string-sanitizer (sanitize strings to remove foreign chars and replace it by English alphabets) (LENGTHY)
+
+
+##### Complex
+1. easeDB (multiple db connectivity with rails) 
+2. ldap-groups (to handle groups on ldap servers)
+3. user authentication extension gem
+4. sqlite3-encrypt-fts (using a custom compiled SQLITE3 binary supporting encrypted db's, using a custom compiled SQLITE3 binary supporting full text search on tables)
 
 ####Need more details, before creating a gem
 5. activerecord_oracle_enhanced_adapter_extension gem

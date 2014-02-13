@@ -28,12 +28,12 @@
 
 ####Gems for Gemathon
 ##### OUR TAKE!
-1. timezone-offset (calculate offset between system timezone & a given timezone)
-2. Spindler/Spicon (Icon with Spin feature)
-3. Rounder (timesheet gem)
-4. Date operation gem, date-formatted (humanized date formats)
-5. sqlite3-encrypt-fts (using a custom compiled SQLITE3 binary supporting encrypted db's, using a custom compiled SQLITE3 binary supporting full text search on tables)
-6. easeDB (multiple db connectivity with rails)
+1. timezone-offset (calculate offset between system timezone & a given timezone) - @ashish
+2. Spindler/Spicon (Icon with Spin feature) - @nikhil
+3. Rounder (timesheet gem) - @Gourav
+4. Date operation gem, date-formatted (humanized date formats) - @ankur
+5. sqlite3-encrypt-fts (using a custom compiled SQLITE3 binary supporting encrypted db's, using a custom compiled SQLITE3 binary supporting full text search on tables) - @ashish + @ankur
+6. easeDB (multiple db connectivity with rails) - @gourav + @nikhil
 
 #####Easy
 1. timezone-offset (calculate offset between system timezone & a given timezone)

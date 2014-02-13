@@ -28,8 +28,9 @@
 
 ####Gems for Gemathon
 1. Rounder (timesheet gem)
-2. easeDB (multiple db connectivity with rails)
-3 Date operation gem, date-formatted (humanized date formats)
+2. easeDB (multiple db connectivity with rails) 
+3. 
+3 Date operation gem, date-formatted (humanized date formats) 
 4. user authentication extension gem
 5. sqlite3-encrypt-fts (using a custom compiled SQLITE3 binary supporting encrypted db's, using a custom compiled SQLITE3 binary supporting full text search on tables)
 6. timezone-offset (calculate offset between system timezone & a given timezone)
